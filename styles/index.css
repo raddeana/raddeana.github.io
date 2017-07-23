@@ -18,9 +18,7 @@ body {
   z-index: -1;
 }
 
-
 /* General & 'Reset' Stuff */
-
 .container {
   width: 90%;
   max-width: 600px;
@@ -76,7 +74,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #efefef;
 }
 
 #downloads .btn {
@@ -236,14 +234,12 @@ hr {
 /* Links
    a, a:hover, a:visited
 */
-
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
 /* Clearfix */
-
 .cf:before, .cf:after {
   content:"";
   display:table;
