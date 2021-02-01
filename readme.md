@@ -1,2 +1,2 @@
 ### Raddeana
-Will of vacant, Eulogize my eternal power
+Will of vacant, Eulogize eternal power
